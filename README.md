@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syedareehaquasar)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Deepak9011)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=syedareehaquasar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/syedareehaquasar/syedareehaquasar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
