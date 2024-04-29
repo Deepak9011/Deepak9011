@@ -26,23 +26,24 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/QuasarReeha">
   <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/syeda-reeha-quasar-625a16118/">
-  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<a href="https://www.linkedin.com/in/deepakagrawal90/">
+  <img align="left" alt="Deepak Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/syedareehaquasar">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Deepak9011">
+  <img align="left" alt="Deepak Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/syedareehaquasar">
   <img align="left" alt="Reeha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/syeda_reeha_quasar/">
-  <img align="left" alt="Reeha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/deepakagrawal09/">
+  <img align="left" alt="Deepak Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/syeda_reeha_quasar/">
-  <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/profile.php?id=100022072908563">
+  <img align="left" alt="Deepak Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://www.hackerrank.com/syedareehaquasar/">
-  <img align="left" alt="Reeha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<!-- <a href="https://www.hackerrank.com/profile/deepakagrawal901">
+  <img align="left" alt="Deepak Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>-->
 
 <br />
@@ -117,9 +118,17 @@ I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from S
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
+<p align="center"> 
+  <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> 
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+  <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> 
+  <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  
+</p>
 
-<p align="center"><img src="https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/EfucOGNUMAAFzGV.jpeg" height="50%" width = "50%"></p>
+<p align="center">
+  <img src="https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/EfucOGNUMAAFzGV.jpeg" height="50%" width = "50%">
+</p>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Deepak9011}/count.svg)
@@ -140,4 +149,3 @@ I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from S
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedareehaquasar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=syedareehaquasar&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
