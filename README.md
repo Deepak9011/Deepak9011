@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Deepak9011/Deepak9011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+## Hi There! <img src="https://github.com/Deepak9011/Deepak9011/blob/main/Hi.g" width="30px"></h2>
 <br />
 
 <a href="https://twitter.com/QuasarReeha">
@@ -28,14 +26,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Deepak9011">
   <img align="left" alt="Deepak Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/syedareehaquasar">
-  <img align="left" alt="Reeha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.instagram.com/deepakagrawal09/">
   <img align="left" alt="Deepak Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100022072908563">
-  <img align="left" alt="Deepak Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!-- <a href="https://www.hackerrank.com/profile/deepakagrawal901">
   <img align="left" alt="Deepak Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
@@ -44,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
-I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from SGSITS 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
+I am a Final Year Student Pursuing a Bachelors Of Technology in Computer Science 🎓 from SGSITS 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
 
 <br />
 
@@ -134,13 +126,13 @@ I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from S
 <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
-
+<!--
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <a href="https://github.com/Deepak9011">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=syedareehaquasar&column=8&theme=gruvbox&no-frame=true"/>
 </a>
   </p>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedareehaquasar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!--
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedareehaquasar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<!--
 
