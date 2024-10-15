@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi There! <img src="https://github.com/Deepak9011/Deepak9011/blob/main/Hi.g" width="30px"></h2>
+## Hi There! <img src="https://github.com/Deepak9011/Deepak9011/blob/main/Hi.gif" width="30px"></h2>
 <br />
 
-<a href="https://twitter.com/QuasarReeha">
-  <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
 <a href="https://www.linkedin.com/in/deepakagrawal90/">
   <img align="left" alt="Deepak Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -40,7 +37,7 @@ I am a Final Year Student Pursuing a Bachelors Of Technology in Computer Science
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/Deepak9011/Deepak9011/blob/main/coder.gif" />
 
 
 ### Know more about me:
