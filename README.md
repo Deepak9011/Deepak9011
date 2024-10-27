@@ -110,10 +110,6 @@ I am a Final Year Student Pursuing a Bachelors Of Technology in Computer Science
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  
 </p>
 
-<p align="center">
-  <img src="https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/EfucOGNUMAAFzGV.jpeg" height="50%" width = "50%">
-</p>
-
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Deepak9011}/count.svg)
 
