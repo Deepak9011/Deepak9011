@@ -80,7 +80,6 @@ I am a Final Year Student Pursuing a Bachelors Of Technology in Computer Science
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) --><!-- ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) -->
@@ -123,7 +122,7 @@ I am a Final Year Student Pursuing a Bachelors Of Technology in Computer Science
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <a href="https://github.com/Deepak9011">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=syedareehaquasar&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=deepak9011&column=8&theme=gruvbox&no-frame=true"/>
 </a>
   </p>
 <!--
